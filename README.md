@@ -8,8 +8,17 @@
 <p align="left"> <a href="https://twitter.com/dwaynemaster" target="blank"><img src="https://img.shields.io/twitter/follow/dwaynemaster?logo=twitter&style=for-the-badge" alt="dwaynemaster" /></a> </p>
 
 # 💫 About Me:
-- 🔭 I’m currently working on  **Airbnb Clone Project**  <br><br>- 👯 I’m looking to collaborate on **quantitative finance, fintech, and AI-driven projects**  <br><br>- 🤝 I’m looking for help with **building autonomous trading systems and scaling AI models for finance**  <br><br>- 🌱 I’m currently learning **Full Stack Software Engineering, Full Stack Data Science, and Full Stack AI Engineering**  <br><br>- 💬 Ask me about **finance, quantitative analysis, trading systems, and blending tech with finance**   <br><br>- 👨‍💻 All of my projects are available here on GitHub (stay tuned 🚀)  <br><br>- 👨‍💻 All of my projects are available here on GitHub (stay tuned 🚀)  <br><br>- ⚡ Fun fact 1: *I blend **finance + math + code** to engineer smarter financial decisions* <br>- ⚡ Fun fact 2: *I use Ubuntu btw*
-
+- 🔭 I’m currently working on [Airbnb Clone Project](https://github.com/Dwaynemaster007/airbnb-clone-project)
+- 🌱 I’m currently learning ****Full Stack Software Engineering, Full Stack Data Science, and Full Stack AI Engineering****
+- 👯 I’m looking to collaborate on ****quantitative finance, fintech, and AI-driven projects****
+- 🤝 I’m looking for help with ****building autonomous trading systems and scaling AI models for finance****
+- 👨‍💻 All of my projects are available at [https://github.com/Dwaynemaster007/](https://github.com/Dwaynemaster007/)
+- 📝 I regularly write articles on [https://medium.com/@thubelihledlamini88](https://medium.com/@thubelihledlamini88)
+- 💬 Ask me about ****finance, quantitative analysis, trading systems, and blending tech with finance****
+- 📫 How to reach me **thubelihledlamini88@gmail.com**
+- 📄 Know about my experiences [http://www.linkedin.com/in/thubelihledlamini](http://www.linkedin.com/in/thubelihledlamini)
+- ⚡ Fun fact 1: *I blend **finance + math + code** to engineer smarter financial decisions*
+- ⚡ Fun fact 2: ***I use Ubuntu btw***
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/thubelihle.dlamini.7127) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dwaynemaster_007) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/thubelihledlamini) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@thubelihledlamini88) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@dwaynemaster_007) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/dwaynemaster) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:thubelihledlamini88@gmail.com) 
