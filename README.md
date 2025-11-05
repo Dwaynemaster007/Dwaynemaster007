@@ -8,7 +8,7 @@
 <p align="left"> <a href="https://twitter.com/dwaynemaster" target="blank"><img src="https://img.shields.io/twitter/follow/dwaynemaster?logo=twitter&style=for-the-badge" alt="dwaynemaster" /></a> </p>
 
 # 💫 About Me:
-- 🔭 I’m currently working on [Airbnb Clone Project](https://github.com/Dwaynemaster007/airbnb-clone-project)
+- 🔭 I’m currently working on [Campus Room Allocation Project](https://github.com/Dwaynemaster007/campus-room-allocator)
 - 🌱 I’m currently learning ****Full Stack Software Engineering, Full Stack Data Science, and Full Stack AI Engineering****
 - 👯 I’m looking to collaborate on ****quantitative finance, fintech, and AI-driven projects****
 - 🤝 I’m looking for help with ****building autonomous trading systems and scaling AI models for finance****
